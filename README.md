@@ -11,7 +11,7 @@ This repository contains an easy-to-use Google Colab notebook for running **Demu
 [![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/2W7YCSNC894YE)
 
 ---
-<img src="./thumbnail.png" width="100%" />
+<img src="./thumbnaill.png" width="100%" />
 
 ## ✨ Features Supported in this Notebook
 
